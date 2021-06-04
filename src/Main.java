@@ -1,0 +1,53 @@
+public class Main {
+    public static void main(String[] args) {
+        //SinglyLinkedList<Integer> singlyLinkedList = new SinglyLinkedList<>();
+//        singlyLinkedList.add(8);
+//        singlyLinkedList.add(null);
+//        singlyLinkedList.add(9);
+//        singlyLinkedList.add(10);
+//        singlyLinkedList.add(11);
+        //System.out.println(singlyLinkedList.contains(8));
+        //System.out.println(singlyLinkedList.contains(null));
+        //System.out.println(singlyLinkedList.remove(null));
+//        System.out.println(singlyLinkedList.remove(Integer.valueOf(8)));
+//        System.out.println(singlyLinkedList.remove(Integer.valueOf(5)));
+        //System.out.println(singlyLinkedList);
+        //System.out.println(singlyLinkedList.remove(4));
+        //System.out.println(singlyLinkedList.remove(4));
+//        System.out.println(singlyLinkedList.pop());
+//        System.out.println(singlyLinkedList);
+//        System.out.println(singlyLinkedList.pop());
+//        System.out.println(singlyLinkedList);
+//        DoublyLinkedList<Integer> doublyLinkedList = new DoublyLinkedList<>();
+//        doublyLinkedList.add(4);
+//        doublyLinkedList.add(5);
+//        doublyLinkedList.add(1);
+//        doublyLinkedList.add(6);
+//        doublyLinkedList.add(7);
+//        doublyLinkedList.add(8);
+//        doublyLinkedList.add(9);
+//        doublyLinkedList.add(10);
+//        doublyLinkedList.add(11);
+//        doublyLinkedList.add(12);
+//        doublyLinkedList.add(13);
+//        doublyLinkedList.add(14);
+//        System.out.println(doublyLinkedList);
+//        doublyLinkedList.remove(8);
+//        System.out.println(doublyLinkedList);
+//        System.out.println(doublyLinkedList.pop());
+//        System.out.println(doublyLinkedList.pop());
+//        System.out.println(doublyLinkedList.contains(5));
+//        MyArrayList<Integer> myArrayList = new MyArrayList<>();
+//        myArrayList.add(5);
+//        myArrayList.add(9);
+//        myArrayList.add(null);
+//        myArrayList.add(52);
+//        myArrayList.add(9);
+//        myArrayList.add(8);
+//        System.out.println(myArrayList);
+//        System.out.println(myArrayList.pop());
+//        System.out.println(myArrayList);
+//        System.out.println(myArrayList.pop());
+//        System.out.println(myArrayList);
+    }
+}
