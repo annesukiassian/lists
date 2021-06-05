@@ -33,6 +33,12 @@ public class Main {
 //        doublyLinkedList.add(14);
 //        System.out.println(doublyLinkedList);
 //        doublyLinkedList.remove(8);
+//        doublyLinkedList.remove(11);
+//        System.out.println(doublyLinkedList);
+//        doublyLinkedList.removeAt(2);
+//        doublyLinkedList.removeAt(8);
+//        doublyLinkedList.add(20);
+        //System.out.println(doublyLinkedList);
 //        System.out.println(doublyLinkedList);
 //        System.out.println(doublyLinkedList.pop());
 //        System.out.println(doublyLinkedList.pop());
@@ -49,5 +55,35 @@ public class Main {
 //        System.out.println(myArrayList);
 //        System.out.println(myArrayList.pop());
 //        System.out.println(myArrayList);
+//        CircularLinkedList<Integer> circularLinkedList = new CircularLinkedList<>();
+//        circularLinkedList.add(5);
+//        circularLinkedList.add(6);
+//        circularLinkedList.add(7);
+//        circularLinkedList.add(8);
+//        circularLinkedList.add(9);
+//        circularLinkedList.add(null);
+//        circularLinkedList.add(20);
+//        circularLinkedList.add(18);
+//        circularLinkedList.add(17);
+//        System.out.println(circularLinkedList);
+//        System.out.println(circularLinkedList.get(0));
+//        System.out.println(circularLinkedList.get(6));
+//        circularLinkedList.removeAt(1);
+//        System.out.println(circularLinkedList);
+//        circularLinkedList.removeAt(6);
+//        System.out.println(circularLinkedList);
+//        circularLinkedList.add(30);
+//        System.out.println(circularLinkedList);
+//       circularLinkedList.remove(6);
+//        System.out.println(circularLinkedList);
+//        circularLinkedList.remove(null);
+//        circularLinkedList.remove(18);
+//        circularLinkedList.remove(9);
+//        System.out.println(circularLinkedList);
+//        System.out.println(circularLinkedList.contains(38));
+//        System.out.println(circularLinkedList.pop());
+//        System.out.println(circularLinkedList.pop());
+//        System.out.println(circularLinkedList);
+//        System.out.println(circularLinkedList.size);
     }
 }
